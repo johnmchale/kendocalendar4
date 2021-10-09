@@ -1,6 +1,5 @@
 {
   "name": "kendocalendar4",
-  "homepage": "https://johnmchale.github.io/kendocalendar4",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
